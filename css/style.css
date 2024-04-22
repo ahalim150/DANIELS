@@ -140,7 +140,7 @@ a:hover {
     left: 0;
 }
 
-#home h1::after{
+/* #home h1::after{
     content: '|';
     animation: typing 2s linear 2s infinite ;
     -webkit-animation: typing 2s linear 2s infinite ;
@@ -180,7 +180,7 @@ a:hover {
     100%{
         content: " |";
     }
-}
+} */
 
 #work .work-pic{
     position: relative;
